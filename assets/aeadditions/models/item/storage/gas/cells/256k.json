@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aeadditions:item/cell/chemical/chemical_cell_256k"
+  }
+}

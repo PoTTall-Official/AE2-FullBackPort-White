@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aeadditions:item/wireless_terminal/universal/universal_wireless_terminal"
+  }
+}

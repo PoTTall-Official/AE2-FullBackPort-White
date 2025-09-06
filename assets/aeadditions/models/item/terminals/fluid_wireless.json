@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aeadditions:item/wireless_terminal/fluid/fluid_wireless_terminal"
+  }
+}
