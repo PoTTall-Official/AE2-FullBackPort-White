@@ -1,17 +1,30 @@
-# AE2-FullBackPort-White
-Full port of the new Applicedenergistics 2 textures on 1.12.2 | White Theme
-## Download
-<div id="badges">
-  <a href="https://github.com/PoTTall-Official/AE2-FullBackPort-White/releases">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&logoSize=auto"/>
-  <a href="https://www.curseforge.com/minecraft/texture-packs/ae2-full-backport">
-    <img src="https://img.shields.io/badge/CurseForge-black?logo=curseforge&logoColor=red&logoSize=auto"/>
-  <a href="https://modrinth.com/resourcepack/ae2-full-backport">
-    <img src="https://img.shields.io/badge/ModRinth-white?logo=modrinth&logoColor=lime&logoSize=auto"/>
-  </a>
+<div align="center">
+  <h1>AE2-FullBackPort-White</h1>
+  <p>Full port of the new Appliedenergistics 2 textures on 1.12.2 | White Theme</p>
+  <h2>Download</h2>
+  <div id="badges">
+    <a href="https://www.curseforge.com/minecraft/texture-packs/ae2-full-backport">
+      <img src="https://img.shields.io/badge/CurseForge-black?logo=curseforge&logoColor=red&logoSize=auto"/>
+    </a>
+    <a href="https://modrinth.com/resourcepack/ae2-full-backport">
+      <img src="https://img.shields.io/badge/Modrinth-white?logo=modrinth&logoColor=lime&logoSize=auto"/>
+    </a>
+  </div>
+  <p align="center">
+    <a href="https://github.com/PoTTall-Official/AE2-FullBackPort-White/releases">
+      <img src="https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white&logoSize=auto"/>
+    </a>
+  </p>
+  <p><br/></p>
+  <img src="https://ltdfoto.ru/images/2025/09/06/White_7680x4320.png"/>
+  <p><br/></p>
+  <h2>Join us!</h2>
+  <div id="join-us-badges">
+    <a href="https://t.me/lenaopg">
+      <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&logoSize=auto"/>
+    </a>
+  </div>
 </div>
-    
-![Couldn't download image](https://ltdfoto.ru/images/2025/09/06/White_7680x4320.png)
 
 ## Features
 - New AE2 Style for GUI's.
@@ -20,17 +33,12 @@ Full port of the new Applicedenergistics 2 textures on 1.12.2 | White Theme
 - Fixed rear models of terminals, buses, P2P tunnels, etc.
 - There's a lot more, install and see for yourself!
 
-## Planned in the future:
+## Planned in the future
 - Port strings in .lang files, names of items, blocks, and messages for English and Russian.
 - Maybe add support for addons like AE2: Stuff, etc.
 
-
-## Join us! 
-<div id="badges">
-  <a href="https://t.me/lenaopg">
-    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&logoSize=auto"/>
-  </a>
-</div>
+## Credentials
+- [AppliedEnergistics 2 - thetechnici4n](https://github.com/AppliedEnergistics/Applied-Energistics-2) - Creating the modification itself and the new style.
 
 ## Known issues
 <details>
